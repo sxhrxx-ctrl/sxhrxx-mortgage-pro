@@ -15,7 +15,7 @@ export default function HomePage() {
           <div className="flex flex-wrap justify-center gap-3 sm:gap-4 text-xs sm:text-sm mt-4 mb-6">
             <span className="bg-blue-50 text-blue-700 px-3 py-1 rounded-full font-medium">🏠 500K+ Monthly Calculations</span>
             <span className="bg-green-50 text-green-700 px-3 py-1 rounded-full font-medium">✅ 100% Free</span>
-            <span className="bg-amber-50 text-amber-700 px-3 py-1 rounded-full font-medium">⭐ No Signup Required</span>
+            <span className="bg-purple-50 text-purple-700 px-3 py-1 rounded-full font-medium">⭐ No Signup Required</span>
           </div>
 
           <p className="mt-6 text-lg sm:text-xl text-blue-100 max-w-2xl mx-auto">
