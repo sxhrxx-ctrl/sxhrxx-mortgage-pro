@@ -12,17 +12,10 @@ export default function HomePage() {
             <span className="text-blue-200">Payment Instantly</span>
           </h1>
 
-          {/* Social Proof Badges */}
-          <div className="flex flex-wrap justify-center gap-4 sm:gap-6 text-xs sm:text-sm mt-4">
-            <span className="bg-white/10 text-white px-3 py-1 rounded-full">
-              🏠 500K+ 月计算量
-            </span>
-            <span className="bg-white/10 text-white px-3 py-1 rounded-full">
-              ✅ 100% 免费
-            </span>
-            <span className="bg-white/10 text-white px-3 py-1 rounded-full">
-              ⭐ 无需注册
-            </span>
+          <div className="flex flex-wrap justify-center gap-3 sm:gap-4 text-xs sm:text-sm mt-4 mb-6">
+            <span className="bg-blue-50 text-blue-700 px-3 py-1 rounded-full font-medium">🏠 500K+ Monthly Calculations</span>
+            <span className="bg-green-50 text-green-700 px-3 py-1 rounded-full font-medium">✅ 100% Free</span>
+            <span className="bg-amber-50 text-amber-700 px-3 py-1 rounded-full font-medium">⭐ No Signup Required</span>
           </div>
 
           <p className="mt-6 text-lg sm:text-xl text-blue-100 max-w-2xl mx-auto">
